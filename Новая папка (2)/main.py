@@ -72,11 +72,7 @@ class Game(ShowBase):
         self.addInstructions("[E]: Move Up")
         self.addInstructions("[Q]: Move Down")
         self.addInstructions("[Space]: Jump")
-        self.addInstructions("[F1]: Basic map")
-        self.addInstructions("[F2]: Random map")
-        self.addInstructions("[F3]: Save map")
-        self.addInstructions("[F4]: Load map")
-        self.addInstructions("[1-8]: Select color")
+fsfasdgasdga
         self.addInstructions("Press ESC to exit")
 
         # элемент текста оповещений
